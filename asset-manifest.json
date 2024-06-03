@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/suhas-portfolio/static/css/main.7fdc4bab.css",
+    "main.js": "/suhas-portfolio/static/js/main.1323159c.js",
+    "index.html": "/suhas-portfolio/index.html",
+    "main.7fdc4bab.css.map": "/suhas-portfolio/static/css/main.7fdc4bab.css.map",
+    "main.1323159c.js.map": "/suhas-portfolio/static/js/main.1323159c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fdc4bab.css",
+    "static/js/main.1323159c.js"
+  ]
+}
